@@ -28,6 +28,15 @@ Pull:
 Push
 - To show the changes of codes on the same remote repo.
 
+#Different ways to get a copy of a repository's files on GitHub:
+- Download = to copy a repo file in local computer
+- Clone = getting the full repo in every file and folder
+- Fork = to create a new repo in github and it links to your personal account
+
+
+
+
+
 
 
 
