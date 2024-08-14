@@ -10,13 +10,21 @@ Git:
 - It can create a copy or branch of a certain code. So it doesn't affect the main error of the problem.
 - It can track yours and others changes. In most up-to-date version
 
+Repository: 
+- or Repo .Like a Folder where all files are available as well as their past changes of a project.
+
+Branch:
+- It creates a copy of the main code.
+- To create another solution or update of a certain project without affecting the main.
+- It lets you experiment and be creative.
+
 Pull:
 - To check all the latest changes of main or others codes on remote repo in Github.
+- You're suggesting your own code to others branch. 
 
 Push
 - To show the changes of codes on the same remote repo.
 
 
 
-repo - folder where all files are available as well as their past histories of projects.
 
