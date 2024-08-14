@@ -18,10 +18,12 @@ Branch:
 - To create another solution or update of a certain project without affecting the main.
 - It lets you experiment and be creative.
 
+Commit:
+- Saves all the changes which can be found in history
+  
 Pull:
-- To check all the latest changes of main or others codes on remote repo in Github.
-- You're suggesting your own code to others branch. 
-
+- You're suggesting your own code to others branch.
+  
 Push
 - To show the changes of codes on the same remote repo.
 
